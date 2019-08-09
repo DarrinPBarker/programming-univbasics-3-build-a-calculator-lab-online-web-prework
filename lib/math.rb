@@ -6,7 +6,7 @@ def subtraction(10, 5)
 
 end
 
-def division(num1, num2)
+def division(50, 2)
 
 end
 
