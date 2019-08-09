@@ -14,7 +14,7 @@ def multiplication(4, 30)
 
 end
 
-def modulo(num1, num2)
+def modulo(34, 5)
 
 end
 
