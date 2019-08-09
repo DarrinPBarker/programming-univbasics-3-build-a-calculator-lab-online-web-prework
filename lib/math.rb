@@ -18,6 +18,6 @@ def modulo(34, 5)
 
 end
 
-def square_root(num)
+def square_root(81)
 
 end
